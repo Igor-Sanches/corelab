@@ -1,0 +1,182 @@
+[
+  {
+    "description": "Café Gourmet Premium 250g",
+    "image": "cafe-gourmet-em-gr-os-caffe-ferrero-1kg-824.jpg",
+    "price": 25.99,
+    "discount": 10,
+    "is_new": true,
+    "category": "Cafés e Chás",
+    "create_at": "2024-08-18"
+  },
+  {
+    "description": "Chá Verde Orgânico 100g",
+    "image": "images-6.jpeg",
+    "price": 18.50,
+    "discount": 5,
+    "is_new": false,
+    "category": "Cafés e Chás",
+    "create_at": "2024-08-10"
+  },
+  {
+    "description": "Vinho Tinto Reserva 750ml",
+    "image": "Kit-4-Vinhos-Red-Blend-Tinto.jpg",
+    "price": 89.90,
+    "discount": 15,
+    "is_new": true,
+    "category": "Vinhos e Espumantes",
+    "create_at": "2024-08-01"
+  },
+  {
+    "description": "Cerveja Artesanal IPA 500ml",
+    "image": "image-7648cc19780b4055805b69d70991ff89.jpg.webp",
+    "price": 14.99,
+    "discount": 0,
+    "is_new": true,
+    "category": "Cervejas",
+    "create_at": "2024-07-25"
+  },
+  {
+    "description": "Suco de Laranja Integral 1L",
+    "image": "laranja.jpg",
+    "price": 9.80,
+    "discount": 5,
+    "is_new": false,
+    "category": "Sucos",
+    "create_at": "2024-08-05"
+  },
+  {
+    "description": "Energético Natural 250ml",
+    "image": "energetico_monster_energy_khaotic_lata_473ml_c_6_1743_1_8c4e46b1ea8f5f67f70244449015073c.jpg.webp",
+    "price": 12.50,
+    "discount": 7,
+    "is_new": true,
+    "category": "Energéticos",
+    "create_at": "2024-07-18"
+  },
+  {
+    "description": "Refrigerante de Cola Zero 350ml",
+    "image": "images-7.jpeg",
+    "price": 4.99,
+    "discount": 3,
+    "is_new": false,
+    "category": "Refrigerantes",
+    "create_at": "2024-08-14"
+  },
+  {
+    "description": "Água de Coco Natural 500ml",
+    "image": "270806---agua-de-coco-kero-coco-330ml.jpg.webp",
+    "price": 7.20,
+    "discount": 5,
+    "is_new": true,
+    "category": "Águas",
+    "create_at": "2024-08-03"
+  },
+  {
+    "description": "Whisky Escocês 12 anos 750ml",
+    "image": "557613229_BO2502.webp",
+    "price": 159.90,
+    "discount": 20,
+    "is_new": false,
+    "category": "Destilados",
+    "create_at": "2024-07-30"
+  },
+  {
+    "description": "Vodka Premium 1L",
+    "image": "images-8.jpeg",
+    "price": 89.50,
+    "discount": 15,
+    "is_new": true,
+    "category": "Destilados",
+    "create_at": "2024-08-07"
+  },
+  {
+    "description": "Gin Artesanal 700ml",
+    "image": "garrafas-gera-proud23.jpg.webp",
+    "price": 99.99,
+    "discount": 10,
+    "is_new": false,
+    "category": "Destilados",
+    "create_at": "2024-08-12"
+  },
+  {
+    "description": "Tequila Ouro 750ml",
+    "image": "7194-tequila-jose-cuervo-gold-750-ml.jpg",
+    "price": 119.00,
+    "discount": 12,
+    "is_new": true,
+    "category": "Destilados",
+    "create_at": "2024-07-22"
+  },
+  {
+    "description": "Rum Branco 700ml",
+    "image": "https---domolivio.vtexassets.com-arquivos-ids-444049-Rum-Branco-Artesanal-Parnaioca-750mL.jpg?v=638478504007130000.webp",
+    "price": 69.90,
+    "discount": 5,
+    "is_new": false,
+    "category": "Destilados",
+    "create_at": "2024-08-10"
+  },
+  {
+    "description": "Licor de Café 500ml",
+    "image": "557646895_BO6936.jpg_2.jpg",
+    "price": 45.50,
+    "discount": 7,
+    "is_new": true,
+    "category": "Destilados",
+    "create_at": "2024-08-08"
+  },
+  {
+    "description": "Espumante Brut 750ml",
+    "image": "chandon-reserve-brut.jpg",
+    "price": 59.90,
+    "discount": 10,
+    "is_new": false,
+    "category": "Vinhos e Espumantes",
+    "create_at": "2024-07-15"
+  },
+  {
+    "description": "Vinho Rosé 750ml",
+    "image": "casal-garcia-rose-750ml.jpg.webp",
+    "price": 49.90,
+    "discount": 8,
+    "is_new": true,
+    "category": "Vinhos e Espumantes",
+    "create_at": "2024-08-13"
+  },
+  {
+    "description": "Cerveja Lager 350ml",
+    "image": "bierbaum-lager-jsoju4m3tl.jpg.webp",
+    "price": 5.99,
+    "discount": 2,
+    "is_new": false,
+    "category": "Cervejas",
+    "create_at": "2024-07-28"
+  },
+  {
+    "description": "Cachaça Artesanal 700ml",
+    "image": "cachaca-artesanal-cachaca-artesanal-tradicao-agricola-5-anos-de-tonel-de-carvalho--p-1665171269979.jpg",
+    "price": 39.90,
+    "discount": 10,
+    "is_new": true,
+    "category": "Destilados",
+    "create_at": "2024-08-17"
+  },
+  {
+    "description": "Conhaque Francês 700ml",
+    "image": "582909_1.jpg",
+    "price": 249.90,
+    "discount": 20,
+    "is_new": false,
+    "category": "Destilados",
+    "create_at": "2024-07-20"
+  },
+  {
+    "description": "Champanhe Vintage 750ml",
+    "image": "image-c191028b59064e1ea23902799aede3c2.jpg.webp",
+    "price": 399.00,
+    "discount": 25,
+    "is_new": true,
+    "category": "Vinhos e Espumantes",
+    "create_at": "2024-08-02"
+  }
+]
