@@ -3,7 +3,7 @@
 # Application for the 'Corelab' challenge
 # Screens## Home screen
 * Here I have placed a list of products categorized by the date the products were registered. \
-  [![Screenshot 2021-06-22 131725]([https://user-images.githubusercontent.com/34573915/122964031-3df7c780-d35d-11eb-94a5-54db7a637c4c.jpg](https://github.com/Igor-Sanches/corelab/blob/master/WhatsApp%20Image%202024-08-19%20at%2012.55.01.jpeg))](https://github.com/Igor-Sanches/corelab/blob/master/WhatsApp%20Image%202024-08-19%20at%2012.55.01.jpeg)
+  [[![Screenshot 2021-06-22 131725]([https://user-images.githubusercontent.com/34573915/122964031-3df7c780-d35d-11eb-94a5-54db7a637c4c.jpg](https://github.com/Igor-Sanches/corelab/blob/master/WhatsApp%20Image%202024-08-19%20at%2012.55.01.jpeg))](https://github.com/Igor-Sanches/corelab/blob/master/WhatsApp%20Image%202024-08-19%20at%2012.55.01.jpeg)](https://github.com/Igor-Sanches/corelab/blob/master/WhatsApp%20Image%202024-08-19%20at%2012.55.01.jpeg)
 
 ## Categories screen
 * Here I listed all the product categories
